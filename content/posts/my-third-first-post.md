@@ -6,7 +6,6 @@ tags = []
 categories = []
 externalLink = ""
 series = []
-ReadingTime = 50
 +++
 
 ## Hello! My Friend!🤩
