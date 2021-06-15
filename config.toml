@@ -44,12 +44,12 @@ pygmentscodefencesguesssyntax = true
 # Social links
 [[params.social]]
   name = "Github"
-  icon = "fab fa-github fa-2x"
+  icon = "fa fa-github"
   weight = 1
   url = "https://github.com/Rasphino/"
 [[params.social]]
   name = "Contact Me"
-  icon = "fab fa-telegram fa-2x"
+  icon = "fa fa-telegram"
   weight = 2
   url = "https://t.me/rasphino"
 
