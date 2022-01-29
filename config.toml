@@ -1,7 +1,7 @@
 baseURL = "https://blog.rasphino.cn"
 theme = "hugo-coder"
 languageCode = "en"
-defaultcontentlanguage = "en"
+defaultcontentlanguage = "zh-cn"
 # defaultContentLanguageInSubdir = true
 
 paginate = 20
