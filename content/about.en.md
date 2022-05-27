@@ -3,13 +3,15 @@ title = "About Me"
 slug = "about"
 +++
 
-Hi, I'm Rasphino, a student from ZJU CKC, majoring in CS. 
+Hi, I'm Rasphino, a Master student from NUS SoC. I graduated from Zhejiang University.
 
 I am:
-- Arch Linux user
-- Arch Linux CN maintainer
+- ~~Arch Linux user~~
+- ~~Arch Linux CN maintainer~~
 - KDE fanboy
 - ~~Crossover advocate~~
+- macOS user now (sad)
+- My dotfiles are [here](https://github.com/Rasphino/dotfiles)
 
 
 # Friends' Link
