@@ -10,6 +10,8 @@ externalLink = ""
 series = []
 +++
 
+> 注意⚠️：该方法已经失效！
+
 O'Reilly Learning Platform（曾为O'Reilly Safari）每年的订阅费高达$499，这对于身为苦逼穷学生的我而言无疑是一笔巨款。那么有没有什么合法又实惠的途径能让我们获得O'Reilly Learning Platform的访问权限呢？
 
 答案是有的！那就是成为ACM的Professional Member！相信了解计算机的同学对ACM肯定都不陌生，但是大家可能并不了解的是ACM会员可以[免费访问](https://learning.acm.org/e-learning/oreilly)O'Reilly Learning Platform。
